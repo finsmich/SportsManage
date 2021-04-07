@@ -1,0 +1,19 @@
+.results-manage {
+  width: 100%;
+  height: 91.6vh;
+  background-color: #fff;
+}
+.top {
+  width: 100%;
+  min-width: 750px;
+  height: 15%;
+  border-bottom: 1px solid lightblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bottom {
+  width: 100%;
+  min-width: 750px;
+  height: 85%;
+}
